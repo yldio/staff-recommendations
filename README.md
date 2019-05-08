@@ -1,5 +1,7 @@
 # Hardware Budget Usage
 
+Please feel free to add what you have got through the YLD Hardware budget, it can help those who are stuck for ideas!
+
 #### Audio / Visual
 
 > Headphones, microphones, monitors, etc/
