@@ -20,8 +20,6 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 - *@sericaia* - [Magic Keyboard - US English](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
 - *@sericaia* - [Magic Trackpad 2 - Silver](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
 
-#### Chairs
-
 #### Chargers
 
 > ⚡ Charge your laptop and things, redudancy for home and work!
