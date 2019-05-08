@@ -8,7 +8,7 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 
 - *@tomgco* - [Sennheiser Momentum 2.0 Wireless](https://en-uk.sennheiser.com/momentum-wireless)
 - *@fabioantunes* - [Sennheiser Momentum 2.0 Wireless](https://en-uk.sennheiser.com/momentum-wireless)
-- *@renatoc* *@jgantunes* - [Sennheiser PXC550](https://www.amazon.es/gp/product/B01E3XLNA0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [Sennheiser PXC550](https://www.amazon.es/gp/product/B01E3XLNA0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) *@renatoc* *@jgantunes* *@fampinheiro*
 - *@sericaia* - [Dell UltraSharp U2414H](https://www.amazon.com/Dell-UltraSharp-U2414H-Screen-Monitor/dp/B00GTV05XG)
 - *@jccguimaraes* - [Sony 1000XM2 Wireless Noise-Canceling Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm2)
 - *@jccguimaraes* - [LG 29” UltraWide FHD IPS Monitor](https://www.lg.com/uk/monitors/lg-29WK600)
