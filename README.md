@@ -7,6 +7,7 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 > Headphones, microphones, monitors, etc/
 
 - *@tomgco* - [Sennheiser Momentum 2.0 Wireless](https://en-uk.sennheiser.com/momentum-wireless)
+- *@renatoc* - [Sennheiser PXC550](https://www.amazon.es/gp/product/B01E3XLNA0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - *@jccguimaraes* - [Sony 1000XM2 Wireless Noise-Canceling Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm2)
 
 #### Mouse / Keyboards
@@ -28,4 +29,6 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 
 #### Adapters
 
-> usb-c -> hdmi and all that jazz! 
+> usb-c -> hdmi and all that jazz!
+
+- *@renatoc* - [Hub USB C, ethernet, HDMI 4k, 3.5mm audio, card reader](https://www.amazon.es/gp/product/B07GKXN841/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
