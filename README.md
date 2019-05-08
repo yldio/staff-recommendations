@@ -13,6 +13,7 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 - *@jccguimaraes* - [Sony 1000XM2 Wireless Noise-Canceling Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm2)
 - *@jccguimaraes* - [LG 29” UltraWide FHD IPS Monitor](https://www.lg.com/uk/monitors/lg-29WK600)
 - *@AniaMakes* - [Bose QuietComfort 35 Series II](https://www.amazon.co.uk/gp/product/B0756CYWWD)
+- *@Couto* - [Logitech C920 HD Pro Webcam](https://www.amazon.co.uk/Logitech-C920-Pro-Webcam-Recording/dp/B006A2Q81M/)
 
 #### Mouse / Keyboards
 
@@ -21,6 +22,7 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 - *@tomgco* - [BenQ Zowie EC1-B Gaming Mouse - Large](https://zowie.benq.com/en-nl/product/mouse/ec/ec1-b.html)
 - *@sericaia* - [Magic Keyboard - US English](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
 - *@sericaia* - [Magic Trackpad 2 - Silver](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
+- *@Couto* - [Logitech MX MASTER 2S](https://www.logitech.com/en-gb/product/mx-master-2s-flow)
 - *@fabioantunes* - [Logitech MX MASTER 2S](https://www.logitech.com/en-gb/product/mx-master-2s-flow)
 - *@fabioantunes* - [Magic Mouse 2](https://www.apple.com/uk/shop/product/MLA02Z/A/magic-mouse-2-silver)
 - *@fabioantunes* - [HHKB](https://www.hhkeyboard.com/uk/emea/)
@@ -47,3 +49,4 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 #### Hardware Security Keys
 
 - *@jgantunes* - [YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc/#yubikey-5-nfc)
+- *@Couto* - [YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc/#yubikey-5-nfc)
