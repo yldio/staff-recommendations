@@ -11,6 +11,7 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 - *@sericaia* - [Dell UltraSharp U2414H](https://www.amazon.com/Dell-UltraSharp-U2414H-Screen-Monitor/dp/B00GTV05XG)
 - *@jccguimaraes* - [Sony 1000XM2 Wireless Noise-Canceling Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm2)
 - *@jccguimaraes* - [LG 29” UltraWide FHD IPS Monitor](https://www.lg.com/uk/monitors/lg-29WK600)
+- *@AniaMakes* - [Bose QuietComfort 35 Series II](https://www.amazon.co.uk/gp/product/B0756CYWWD)
 
 #### Mouse / Keyboards
 
