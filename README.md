@@ -8,12 +8,19 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 
 - *@tomgco* - [Sennheiser Momentum 2.0 Wireless](https://en-uk.sennheiser.com/momentum-wireless)
 - *@renatoc* - [Sennheiser PXC550](https://www.amazon.es/gp/product/B01E3XLNA0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- *@jccguimaraes* - [Sony 1000XM2 Wireless Noise-Canceling Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm2)
 
 #### Mouse / Keyboards
 
 > Well Mouse and Keyboards, mechanical if you like the sound of Cherry MX Blues :D
 
 - *@tomgco* - [BenQ Zowie EC1-B Gaming Mouse - Large](https://zowie.benq.com/en-nl/product/mouse/ec/ec1-b.html)
+
+#### Monitors
+
+- *@jccguimaraes* - [LG 29” UltraWide FHD IPS Monitor](https://www.lg.com/uk/monitors/lg-29WK600)
+
+#### Chairs
 
 #### Chargers
 
