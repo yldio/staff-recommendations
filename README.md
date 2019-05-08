@@ -27,8 +27,6 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 - *@fabioantunes* - [60% Keyboard PCB](https://www.aliexpress.com/item/DZ60-Custom-mechanical-keyboard-PCB-60-keyboard-support-arrow-key/32824638057.html?spm=a2g0s.9042311.0.0.3da24c4dfgMCWH)
 - *@fabioantunes* - [Halo True swtiches](https://drop.com/buy/76410)
 
-#### Chairs
-
 #### Chargers
 
 > ⚡ Charge your laptop and things, redudancy for home and work!
