@@ -14,7 +14,9 @@
 - [ ] Credit Card (Revolut, N26 or monzo might be the most useful)
 - [ ] EU Health Insurance card
 - [ ] House keys
+- [ ] Contact details for the place you're staying
 - [ ] Underwear (people keep recommending this! I have to agree)
+- [ ] Personal meds
 
 ### Productivity & Tech
 
@@ -26,10 +28,10 @@
 - [ ] USB/HDMI hub/dongle
 - [ ] USB to Micro USB cable
 - [ ] USB-C to headphone adapter
+- [ ] chargers to all electronics you're taking
 
 ### Personal Care
 
-- [ ] Personal meds
 - [ ] Pain meds (headaches, toothaches, stomach and bowels)
 - [ ] Toothbrush and paste
 - [ ] Dental floss
@@ -37,10 +39,12 @@
 - [ ] Skin care products (cleanser, moisturizer... stress and irregular sleeping can take a toll in your appearance)
 - [ ] Q-tips
 - [ ] Contact lenses/glasses
-- [ ] First-aid kit (band-aids, antiseptic)
+- [ ] First-aid kit (band-aids, antiseptic, tweezers)
 - [ ] Razors/Compact trimmer
 - [ ] Tissues
+- [ ] Tampons/pads/mooncup/pantyliners
 - [ ] Shampoo/Conditioner/Soap (specially if you're staying in Airbnbs)
+- [ ] Sunscreen 
 - [ ] Towel (Airbnbs. If you think that it takes too much space, there are [lightweight towels](https://matadorup.com/products/nanodry-shower-towel-large))
 
 [![](https://data.whicdn.com/images/63842868/original.gif)](https://www.youtube.com/watch?v=xs3V_20oD4A)
@@ -58,7 +62,7 @@
 - [ ] Reusable water bottle (you can fill it inside the boarding area, and there are collapsible bottles if space is a problem)
 - [ ] Compression socks (specially on long flights and if you have blood circulation problems)
 
-### Clothing
+### Clothing & footwear
 
 > This part is personal to everyone. 
 > However these items are often recommended.
@@ -66,6 +70,7 @@
 - [ ] Merino Wool T-shirts
 - [ ] Merino Wool underwear
 - [ ] Compressible down jacket
+- [ ] Flip flops (especially useful in public showers)
 
 ### Workout/Fitness
 
@@ -76,6 +81,7 @@
 - [ ] Shorts/Pants
 - [ ] T-shirts/Base layer
 - [ ] Cellphone bag/holder
+- [ ] Swimming gear
 
 **Note:** If you're going for a run/ride in an unknown place, you might want to
 create/upgrade your Strava account with the [Safety
@@ -95,6 +101,7 @@ feature.
 - [ ] Small multi-tool (bottle opener, package opener)
 - [ ] Carabiner/Hanger
 - [ ] Small sew kit
+- [ ] Travel Insurance
 
 ### Mobile Apps
 
@@ -107,6 +114,7 @@ feature.
 - [ ] Rydoo
 - [ ] Slack
 - [ ] Google Drive
+- [ ] TripAdvisor/Zomato
 
 ## Preparation
 
@@ -122,6 +130,8 @@ feature.
 1. [ ] Notify your bank that you're travelling (to avoid locking your card when you buy a beer in Dublin)
 1. [ ] Get someone to take care of your pets & plants
 1. [ ] Don't go crazy with groceries before the journey, if you can't consume them, they might go to waste
+1. [ ] Set up freezer defrost alert (freeze some water in a container placed sideways, move to sit normally before you leave. If you come back and the water isn't still on the side it means the freezer was off enough for the water to defrost and settle in the new position)
+1. [ ] Get some long-life instant food (canned soup / couscous packet / Huel) so that when you come back there is *some* edible and near instant food in the house. 
 1. [ ] Clean your house before leaving (it sucks to comeback only to find out that your fridge is now a [life ecosystem](https://www.imdb.com/title/tt9788514/?ref_=ttep_ep16))
 1. [ ] Check roaming conditions
 1. [ ] Configure your VPN on your laptop and cellphone, and make sure it works (I recommend [Streisand](https://github.com/StreisandEffect/streisand) since it supports different protocols, but it might be hard to setup)
