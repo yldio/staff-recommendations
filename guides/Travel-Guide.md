@@ -1,6 +1,6 @@
 # The Travel Guide to the Universe
 
-![Don't Panic](https://media.giphy.com/media/jGWvmi09QLJM4/giphy.gif)
+![Don't Panic](https://cl.ly/47801c184228/dont-panic.png)
 
 ## Item Checklist
 
