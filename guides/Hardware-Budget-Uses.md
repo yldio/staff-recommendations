@@ -37,11 +37,14 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 > usb-c -> hdmi and all that jazz!
 
 - [Hub USB C, ethernet, HDMI 4k, 3.5mm audio, card reader](https://www.amazon.es/gp/product/B07GKXN841/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - *[@renatoc](https://github.com/renatoc)*
+- [ATZEBE USB C Hub](https://www.amazon.co.uk/gp/product/B07H6996RW/) - *[@Couto](https://github.com/Couto)*
+
 
 
 #### Stands
 
 - [Portable foldable x stand](https://www.amazon.co.uk/gp/product/B007BD16KC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) - *[@jgantunes](https://github.com/jgantunes)*
+- [NEXSTAND K2 Laptop Stand](https://www.amazon.co.uk/gp/product/B01HHYQBB8/) - *[@Couto](https://github.com/Couto)*
 
 
 #### Hardware Security Keys
@@ -58,3 +61,4 @@ Please feel free to add what you have got through the YLD Hardware budget, it ca
 
 - [Anti-theft backpack](https://www.amazon.co.uk/gp/product/B0787S45H5) - *[@joescho](https://github.com/joescho)*
 - [Laptop Sleeve](https://www.amazon.co.uk/gp/product/B07D27CRMT) - *[@joescho](https://github.com/joescho)*
+- [Thule Gauntlet 3.0 Sleeve](https://www.amazon.co.uk/gp/product/B00R8KA2P8) - *[@Couto](https://github.com/Couto)*
