@@ -75,8 +75,10 @@
 ### Workout/Fitness
 
 - [ ] Yoga mat (some backpacks allow to carry one on the outside, YMMV)
-- [ ] Resistance bands (hardly take any space, and are versatile, check CXWORX exercises)
-- [ ] TRX Rope (doesn't take much space, can be used on sturdy doors/trees outside)
+- [ ] Resistance bands:
+  - [Type 1](https://www.amazon.co.uk/TOPELEK-Exercise-Resistance-Upgraded-Carrying/dp/B01LYM4EYE/) (check CXWORX exercises)
+  - [Type 2](https://www.amazon.co.uk/Coresteady-Resistance-Assisted-Exercise-CrossFit/dp/B01LZXVNC2/)
+- [ ] [TRX Straps](https://www.amazon.co.uk/TRX-Training-Suspension-Lightest-Outdoors/dp/B01LXL27XI/) (doesn't take much space, can be used on sturdy doors/trees outside)
 - [ ] Running shoes
 - [ ] Shorts/Pants
 - [ ] T-shirts/Base layer
@@ -87,6 +89,8 @@
 create/upgrade your Strava account with the [Safety
 Pack](https://www.strava.com/summit/join), so that you can use the Beacon
 feature.
+
+**Note2:** If you're staying near Queen's Park, you will find there a couple poles with proper support for TRX straps, and a lots of places for resistance bands (Type2)
 
 ### Nice-to-haves
 
